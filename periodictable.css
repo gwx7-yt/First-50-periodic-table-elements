@@ -16,7 +16,7 @@ body {
   padding: 20px;
   box-sizing: border-box;
   width: 10vw;
-  height: 90vh;
+  height: 80vh;
   background-color: #000000;
   gap: 10px;
 }
@@ -26,11 +26,11 @@ body {
   align-items: center;
   justify-content: center;
   width: 350px;
-  height: 100px;
+  height: 90px;
   border: 2px solid transparent; 
   color: #fff;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 25px;
   border-radius: 0px;
   cursor: pointer;
   transition: border-color 0.3s ease-in-out, color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
@@ -137,7 +137,7 @@ body {
   font-size: 40px;
   font-weight: bold;
   line-height: 1.5;
-  box-shadow: 0 0 20px rgba(1000, 2000, 3500, 4); }
+  box-shadow: 20px rgba(1000, 2000, 3500, 4); }
 
 
  .random-me {
@@ -165,3 +165,10 @@ body {
   background-color: #f5a623;
   font-size: 1.5em; 
 }
+.header {
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 2.2em; 
+  margin-bottom: 20px;
+  }
