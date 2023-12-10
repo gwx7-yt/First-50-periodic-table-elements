@@ -121,7 +121,8 @@ body {
 .element:hover {
   border-color: #currentColor; 
   box-shadow: 0 0 20px rgba(1000, 2000, 3500, 4);
-   text-shadow: 0 0 10px rgba(500, 1000, 1830, 2)
+   text-shadow: 0 0 10px rgba(500, 1000, 1830, 2);
+  height: 120px;
 }
 .element-info {
   position: fixed;
